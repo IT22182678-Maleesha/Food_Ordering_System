@@ -63,7 +63,7 @@ A full-featured food ordering web application built with React, TypeScript, and 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/IT22182678-Maleesha/Food_Ordering_System.git>
 cd Food_Ordering_System
 ```
 
@@ -143,16 +143,6 @@ src/
 | `/admin-dashboard/*` | Admin dashboard |
 | `/driver-dashboard/*` | Driver dashboard |
 
----
-
-## Environment Variables
-
-Create a `.env` file in the root directory and add the required variables:
-
-```env
-VITE_API_BASE_URL=your_backend_api_url
-VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-```
 
 ---
 
